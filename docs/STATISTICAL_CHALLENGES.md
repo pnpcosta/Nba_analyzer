@@ -19,3 +19,7 @@ To address this issue, we need to consider additional defensive metrics that bet
 ## 3. Quality of 3 pointers
 
 A player like Stephen Curry will shoot way more contested 3 pointers than a catch and shoot specialist, so we will have to take volume more in account.
+
+## 4. How to evaluate playmaking
+I need to distinguish between a player who just passes the ball and makes others work and a player who effectively creates plays based on their passes,
+so I created this definition: "A good playmaker is a player who can create shooting oportunities for his teammates, keeping a good decision capacity and avoiding unecessary turnovers ".
